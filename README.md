@@ -16,5 +16,6 @@ SSL certificate verification is patched in the executable.
 
 Before playing, make sure to edit your hosts file and redirect the following hosts:
 
-gosredirector.ea.com
+gosredirector.ea.com  
+
 373244-gosprapp357.ea.com
