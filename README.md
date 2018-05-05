@@ -1,9 +1,10 @@
 # New-Blaze-Emulator
 Successfully compiled with Visual Studio 2017.
-# Setup
-Edit: YAML file load adjusted.
+# What has changed
+Edit 2017: YAML file load adjusted.
 Copy the "data" folder with the "Blaze.Server.yml" into the release folder.
 
+# Setup
 The required files are in the 'data' directory. The server must be compiled manually.
 
 Make sure you edit the personaref value (_StartGame.bat) so that it matches the user ID of the user you want to authenticate with 
