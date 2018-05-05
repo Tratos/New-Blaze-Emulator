@@ -1,0 +1,1 @@
+start bf3_lan.exe -webMode MP -Origin_NoAppFocus -onlineEnvironment prod -loginToken 4-8-15-16-23-42 -AuthToken 4-8-15-16-23-42 -requestState State_ClaimReservation -requestStateParams "<data putinsquad=\"false\" gameid=\"1\" personaref=\"2\" levelmode=\"mp\"></data>"

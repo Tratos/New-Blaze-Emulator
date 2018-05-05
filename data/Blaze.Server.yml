@@ -1,0 +1,15 @@
+Users:
+  -
+    ID: 1
+    Email: bf3.server.pc@ea.com
+    Name: bf3-server-pc
+
+  -
+    ID: 2
+    Email: bf3.client.pc.1@ea.com
+    Name: bf3-client-pc-1
+
+  -
+    ID: 3
+    Email: bf3.client.pc.2@ea.com
+    Name: bf3-client-pc-2
