@@ -1,4 +1,4 @@
-# New-Blaze-Emulator
+# New-Blaze-Emulator - (BF3 Server Emulator)
 Successfully compiled with Visual Studio 2017.
 # What has changed
 Edit 2017: YAML file load adjusted.
